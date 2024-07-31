@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💜
 
-<!--
-**Evelyn-ndl/Evelyn-ndl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Evelyn
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou mne desenvolvendo na linguagem JavaScript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolviudos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato comigo 📫
+
+0000112989129xsp@al.educacao.sp.gov.br
+
+@Evelyn_ndl
+
+![](https://media1.tenor.com/m/3pEELoKLH5QAAAAC/snoopy-snoopy-dance.gif)
